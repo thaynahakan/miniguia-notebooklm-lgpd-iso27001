@@ -1,6 +1,12 @@
-# miniguia-notebooklm-lgpd-iso27001
 # 📚 Caderno Temático com NotebookLM  
 ## LGPD, Inteligência Artificial e Provas Digitais
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Project-blue)
+![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
+![ISO27001](https://img.shields.io/badge/ISO-27001-orange)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-red)
+![NotebookLM](https://img.shields.io/badge/AI-NotebookLM-purple)
+![Status](https://img.shields.io/badge/Status-Study%20Project-success)
 
 Este repositório apresenta um caderno de estudos desenvolvido com apoio da ferramenta **NotebookLM**, utilizando técnicas de **engenharia de prompts** e **curadoria de fontes acadêmicas** para aprofundar o entendimento sobre os impactos da **Lei Geral de Proteção de Dados (LGPD)** e da **ISO 27001** Dentro do meu TCC de Pós Graduação em Cyber Segurança. Tornando-se assim uma ferramenta prática que mostra onde e como melhorar o meu TCC que é um projeto desenvolvido como estudo aplicado sobre segurança em redes Wi-Fi comerciais, explorando riscos técnicos, governança de dados e soluções de controle de acesso alinhadas à LGPD e às boas práticas de segurança da informação.
 
