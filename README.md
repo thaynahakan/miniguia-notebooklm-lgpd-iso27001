@@ -7,8 +7,17 @@
 ![NotebookLM](https://img.shields.io/badge/AI-NotebookLM-purple)
 ![Status](https://img.shields.io/badge/Status-Study%20Project-success)
 
-Este repositório apresenta um caderno de estudos desenvolvido com apoio da ferramenta **NotebookLM**, utilizando técnicas de **engenharia de prompts** e **curadoria de fontes acadêmicas** para aprofundar o entendimento sobre os impactos da **Lei Geral de Proteção de Dados (LGPD)** e da **ISO 27001** Dentro do meu TCC de Pós Graduação em Cyber Segurança. Tornando-se assim uma ferramenta prática que mostra onde e como melhorar o meu TCC que é um projeto desenvolvido como estudo aplicado sobre segurança em redes Wi-Fi comerciais, explorando riscos técnicos, governança de dados e soluções de controle de acesso alinhadas à LGPD e às boas práticas de segurança da informação.
+## 🧠 NotebookLM Workspace
 
+Este estudo foi conduzido com o apoio da ferramenta **NotebookLM**, utilizada para análise de documentos acadêmicos, organização de referências e experimentação com **engenharia de prompts**.
+
+O objetivo foi aprofundar o entendimento sobre os impactos da **Lei Geral de Proteção de Dados (LGPD)** e das boas práticas de gestão de segurança da informação previstas na **ISO/IEC 27001**, no contexto do meu **Trabalho de Conclusão de Curso (TCC) de Pós-Graduação em Cybersecurity**.
+
+Nesse processo, o NotebookLM foi utilizado como uma ferramenta de apoio à pesquisa, permitindo analisar fontes relevantes, estruturar resumos técnicos e identificar oportunidades de melhoria no desenvolvimento do trabalho acadêmico.
+
+O TCC associado a este estudo propõe uma **solução de controle de acesso e segurança para redes Wi-Fi comerciais**, explorando riscos técnicos, aspectos de governança de dados e mecanismos de controle baseados em **vouchers temporários e segmentação de rede com pfSense**, alinhados aos princípios da **LGPD** e às boas práticas internacionais de **segurança da informação**.
+
+[![Abrir NotebookLM](https://img.shields.io/badge/Abrir%20NotebookLM-Workspace-blue?logo=google)](https://notebooklm.google.com/notebook/07c91a49-16b8-4cfd-b4fa-c534de8bd91b)
 ## 🎯 Contexto
 
 Este projeto foi desenvolvido como um **caderno temático de estudo utilizando NotebookLM**, explorando o uso da IA como ferramenta de aprendizagem ativa. Nesse sentido podemos utilizar essa ferramenta para fomentar o estudo e maximizar adequações ao meu artigo científico.
