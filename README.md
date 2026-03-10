@@ -16,6 +16,12 @@ Este projeto foi desenvolvido como um **caderno temático de estudo utilizando N
 
 ---
 
+## 🧱 Arquitetura da Solução
+
+A arquitetura proposta utiliza pfSense como firewall central, com segmentação de rede e controle de acesso por vouchers.
+
+---
+
 ## 🎯 Objetivos
 
 - **Curadoria de Fontes Acadêmicas**;
