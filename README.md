@@ -2,43 +2,38 @@
 # 📚 Caderno Temático com NotebookLM  
 ## LGPD, Inteligência Artificial e Provas Digitais
 
-Este repositório apresenta um caderno de estudos desenvolvido com apoio da ferramenta **NotebookLM**, utilizando técnicas de **engenharia de prompts** e **curadoria de fontes acadêmicas** para aprofundar o entendimento sobre os impactos da **Lei Geral de Proteção de Dados (LGPD)** no uso da **Inteligência Artificial**, especialmente no contexto de **provas digitais e manipulação de evidências por IA**.
+Este repositório apresenta um caderno de estudos desenvolvido com apoio da ferramenta **NotebookLM**, utilizando técnicas de **engenharia de prompts** e **curadoria de fontes acadêmicas** para aprofundar o entendimento sobre os impactos da **Lei Geral de Proteção de Dados (LGPD)** e da **ISO 27001** Dentro do meu TCC de Pós Graduação em Cyber Segurança. Tornando-se assim uma ferramenta prática que mostra onde e como melhorar o meu TCC que é um projeto desenvolvido como estudo aplicado sobre segurança em redes Wi-Fi comerciais, explorando riscos técnicos, governança de dados e soluções de controle de acesso alinhadas à LGPD e às boas práticas de segurança da informação.
 
 ## 🎯 Contexto
 
-Com o avanço da Inteligência Artificial generativa, surgem novos desafios para o Direito Digital, principalmente relacionados à autenticidade de provas digitais, deepfakes e manipulação de informações.
-
-Nesse cenário, a **LGPD (Lei nº 13.709/2018)** estabelece princípios e regras para o tratamento de dados pessoais, que também impactam sistemas de IA e a produção de provas digitais.
-
-Este projeto foi desenvolvido como um **caderno temático de estudo utilizando NotebookLM**, explorando o uso da IA como ferramenta de aprendizagem ativa.
+Este projeto foi desenvolvido como um **caderno temático de estudo utilizando NotebookLM**, explorando o uso da IA como ferramenta de aprendizagem ativa. Nesse sentido podemos utilizar essa ferramenta para fomentar o estudo e maximizar adequações ao meu artigo científico.
 
 ---
 
 ## 🎯 Objetivos
 
-- Estudar a relação entre **LGPD e Inteligência Artificial**
-- Compreender os desafios da **validação de provas digitais**
-- Identificar riscos relacionados a **deepfakes e manipulação de evidências**
-- Utilizar **engenharia de prompts** para extrair conhecimento de fontes acadêmicas
-- Criar um **miniguia de estudos reutilizável**
+- **Curadoria de Fontes Acadêmicas**;
+- Utilizar **engenharia de prompts** para extrair conhecimento de fontes acadêmicas;
+- **Organização de Conhecimento**.
+
+O tema central analisado foi:
+
+**Segurança em redes Wi-Fi comerciais utilizando vouchers temporários e segmentação de rede com pfSense.**
 
 ## 📑 Curadoria de Fontes
 
 As seguintes fontes foram utilizadas no NotebookLM para construção do caderno temático:
 
 1. **Lei Geral de Proteção de Dados (LGPD) – Lei nº 13.709/2018**  
-https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm
 
-2. **Artificial Intelligence and Data Protection – European Parliament**
+2. **Documentação do Pfsense** - https://docs.netgate.com/pfsense/en/latest/
 
-3. **Deepfakes and the Law – Legal Challenges of Synthetic Media**
+3. **Artigos científicos da SBC OpenLib sobre pfsense**
 
-4. **Artigos científicos da SBC OpenLib sobre IA e LGPD**
-
-5. **Relatórios sobre Inteligência Artificial e proteção de dados**
+4. **Relatórios sobre Inteligência Artificial e proteção de dados**
 
 
-   ## 🤖 Engenharia de Prompts
+## 🤖 Engenharia de Prompts
 
 Durante o uso do NotebookLM foram realizados diversos testes de prompts para extrair conhecimento das fontes.
 
@@ -46,14 +41,13 @@ Durante o uso do NotebookLM foram realizados diversos testes de prompts para ext
 
 Prompt utilizado:
 
-"Explique de forma estruturada a relação entre LGPD e Inteligência Artificial com base nos documentos fornecidos."
+"Explique os principais riscos de segurança em redes Wi-Fi comerciais."
 
 Resultado:
-O modelo destacou princípios da LGPD aplicáveis à IA, como:
-- finalidade
-- necessidade
-- transparência
-- segurança
+O modelo destacou:
+- Riscos Técnicos e Cibernéticos;
+- Riscos Jurídicos e de Privacidade (LGPD);
+- Riscos à Infraestrutura (Contexto ISO 27001).
 
 ---
 
@@ -61,12 +55,10 @@ O modelo destacou princípios da LGPD aplicáveis à IA, como:
 
 Prompt utilizado:
 
-"Quais são os principais riscos jurídicos do uso de deepfakes como prova digital?"
+"Compare autenticação por senha, vouchers e 802.1X em redes Wi-Fi."
 
 Resultado:
-- manipulação de evidências
-- dificuldade de verificação de autenticidade
-- risco de fraudes judiciais
+<img width="667" height="421" alt="image" src="https://github.com/user-attachments/assets/d5c7caad-fc3a-4cbd-b774-feafa38f80dd" />
 
 ---
 
@@ -88,54 +80,35 @@ Durante os testes foi observado que:
 
 - ## 📘 Miniguia de Estudo
 
-### LGPD e Inteligência Artificial
+### Pfsense e Cyber Segurança
 
-A Lei Geral de Proteção de Dados regula o tratamento de dados pessoais no Brasil e estabelece princípios fundamentais para garantir a privacidade e a proteção de informações dos cidadãos.
+LGPD
+Lei que regula o tratamento de dados pessoais no Brasil.
 
-Com o avanço da Inteligência Artificial, surgem novos desafios, como:
+Privacy by Design
+Princípio que exige que a privacidade seja considerada desde a concepção do sistema.
 
-- uso massivo de dados para treinamento de modelos
-- riscos de discriminação algorítmica
-- falta de transparência em sistemas automatizados
+pfSense
+Firewall open source amplamente utilizado para segurança de redes.
 
-Além disso, a geração de **deepfakes e conteúdos sintéticos** levanta preocupações sobre a confiabilidade de **provas digitais em processos judiciais**.
+VLAN
+Segmentação lógica de rede que separa dispositivos em domínios isolados.
 
+Logs de auditoria
+Registros utilizados para monitoramento e investigação de incidentes.
 ---
 
 ### Principais Desafios
 
-- identificação de manipulações feitas por IA
-- verificação de autenticidade de arquivos digitais
-- responsabilidade jurídica de sistemas automatizados
-- conformidade com a LGPD
+| Ameaça                 | Descrição                                    |
+| ---------------------- | -------------------------------------------- |
+| Acesso não autorizado  | dispositivos desconhecidos conectados à rede |
+| Man-in-the-Middle      | interceptação de tráfego                     |
+| Movimentação lateral   | ataques entre dispositivos da mesma rede     |
+| Persistência de sessão | conexões sem controle de tempo               |
+
 
 ---
-
-### Glossário
-
-**LGPD**  
-Lei brasileira que regula o tratamento de dados pessoais.
-
-**Deepfake**  
-Conteúdo sintético gerado por IA que simula imagens, vídeos ou vozes reais.
-
-**Prova Digital**  
-Qualquer evidência eletrônica utilizada em processos judiciais.
-
-**IA Generativa**  
-Tipo de inteligência artificial capaz de gerar textos, imagens, vídeos ou áudio.
-
-**Tratamento de Dados**  
-Qualquer operação realizada com dados pessoais.
-
----
-
-### Prompts Reutilizáveis
-
-- "Explique os impactos da LGPD na Inteligência Artificial."
-- "Quais são os riscos jurídicos dos deepfakes?"
-- "Resuma os princípios da LGPD aplicáveis a sistemas de IA."
-- "Explique como validar provas digitais manipuladas por IA."
 
   ## 🚀 Conclusão
 
@@ -150,4 +123,5 @@ Este projeto também evidencia o potencial da IA como ferramenta de **aprendizag
 Thayna Bittencourt Baima  
 MBA em Cybersecurity  
 Graduada em Direito  
-Área de interesse: Direito Digital, LGPD e Inteligência Artificial
+Pesquisadora em Segurança da Informação e Direito Digital
+Graduanda em Redes de Computadores pelo IFRN.
