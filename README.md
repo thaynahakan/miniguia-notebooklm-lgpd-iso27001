@@ -1,5 +1,4 @@
 # 📚 Caderno Temático com NotebookLM  
-## LGPD, Inteligência Artificial e Provas Digitais
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Project-blue)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
@@ -100,7 +99,7 @@ Durante os testes foi observado que:
 - prompts específicos geravam respostas mais técnicas
 - solicitar **resumos estruturados** melhorou a qualidade das respostas
 
-- ## 📘 Miniguia de Estudo
+## 📘 Miniguia de Estudo
 
 ### Pfsense e Cyber Segurança
 
