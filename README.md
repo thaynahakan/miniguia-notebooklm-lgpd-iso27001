@@ -1,158 +1,153 @@
 # miniguia-notebooklm-lgpd-iso27001
-📚 Miniguia de Estudos com NotebookLM
-LGPD, Inteligência Artificial e Provas Digitais
-📌 Contexto
+# 📚 Caderno Temático com NotebookLM  
+## LGPD, Inteligência Artificial e Provas Digitais
 
-Com o avanço da Inteligência Artificial, novas tecnologias permitem a criação de conteúdos sintéticos como deepfakes, manipulação de imagens, vídeos e áudios. Essas tecnologias trazem desafios significativos para o Direito Digital, especialmente na validação de provas digitais e na proteção de dados pessoais prevista pela Lei Geral de Proteção de Dados (LGPD).
+Este repositório apresenta um caderno de estudos desenvolvido com apoio da ferramenta **NotebookLM**, utilizando técnicas de **engenharia de prompts** e **curadoria de fontes acadêmicas** para aprofundar o entendimento sobre os impactos da **Lei Geral de Proteção de Dados (LGPD)** no uso da **Inteligência Artificial**, especialmente no contexto de **provas digitais e manipulação de evidências por IA**.
 
-Este projeto foi desenvolvido como um Caderno Temático utilizando o NotebookLM, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de apoio ao estudo e organização do conhecimento.
+## 🎯 Contexto
 
-O foco do estudo foi compreender os impactos da Inteligência Artificial na autenticidade de provas digitais e os desafios jurídicos frente à LGPD no Brasil.
+Com o avanço da Inteligência Artificial generativa, surgem novos desafios para o Direito Digital, principalmente relacionados à autenticidade de provas digitais, deepfakes e manipulação de informações.
 
-🎯 Objetivos de Estudo
+Nesse cenário, a **LGPD (Lei nº 13.709/2018)** estabelece princípios e regras para o tratamento de dados pessoais, que também impactam sistemas de IA e a produção de provas digitais.
 
-Este caderno temático tem como objetivos:
+Este projeto foi desenvolvido como um **caderno temático de estudo utilizando NotebookLM**, explorando o uso da IA como ferramenta de aprendizagem ativa.
 
-Compreender os fundamentos da LGPD aplicada à Inteligência Artificial
+---
 
-Analisar os riscos de manipulação de provas digitais por IA
+## 🎯 Objetivos
 
-Estudar o fenômeno dos deepfakes e falsificações digitais
+- Estudar a relação entre **LGPD e Inteligência Artificial**
+- Compreender os desafios da **validação de provas digitais**
+- Identificar riscos relacionados a **deepfakes e manipulação de evidências**
+- Utilizar **engenharia de prompts** para extrair conhecimento de fontes acadêmicas
+- Criar um **miniguia de estudos reutilizável**
 
-Investigar métodos de identificação de conteúdos manipulados
+## 📑 Curadoria de Fontes
 
-Utilizar o NotebookLM para organizar conhecimento e gerar resumos estruturados
+As seguintes fontes foram utilizadas no NotebookLM para construção do caderno temático:
 
-📑 Curadoria de Fontes
+1. **Lei Geral de Proteção de Dados (LGPD) – Lei nº 13.709/2018**  
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm
 
-As seguintes fontes abertas foram utilizadas como base para análise no NotebookLM:
+2. **Artificial Intelligence and Data Protection – European Parliament**
 
-1️⃣ Lei Geral de Proteção de Dados (LGPD)
-https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2018/lei/l13709.htm
+3. **Deepfakes and the Law – Legal Challenges of Synthetic Media**
 
-2️⃣ Cartilha LGPD – Autoridade Nacional de Proteção de Dados (ANPD)
-https://www.gov.br/anpd/pt-br
+4. **Artigos científicos da SBC OpenLib sobre IA e LGPD**
 
-3️⃣ Artigos científicos sobre Inteligência Artificial e Direito Digital (SBC OpenLib)
-https://sol.sbc.org.br
+5. **Relatórios sobre Inteligência Artificial e proteção de dados**
 
-4️⃣ Artigos sobre Deepfakes e Segurança da Informação
-https://www.sciencedirect.com
 
-5️⃣ Relatórios sobre IA e Ética Digital
-https://unesdoc.unesco.org
+   ## 🤖 Engenharia de Prompts
 
-🤖 Engenharia de Prompts
+Durante o uso do NotebookLM foram realizados diversos testes de prompts para extrair conhecimento das fontes.
 
-Durante a utilização do NotebookLM foram testadas diferentes estratégias de prompts para extrair informações das fontes.
+### Prompt 1 – Resumo conceitual
 
-Prompt 1 – Resumo do conteúdo
+Prompt utilizado:
 
-"Com base nos documentos fornecidos, faça um resumo estruturado sobre os impactos da Inteligência Artificial na validade de provas digitais."
+"Explique de forma estruturada a relação entre LGPD e Inteligência Artificial com base nos documentos fornecidos."
 
 Resultado:
-O modelo apresentou um resumo geral destacando:
+O modelo destacou princípios da LGPD aplicáveis à IA, como:
+- finalidade
+- necessidade
+- transparência
+- segurança
 
-riscos de manipulação digital
+---
 
-dificuldades de autenticação
+### Prompt 2 – Análise crítica
 
-desafios jurídicos relacionados à LGPD
+Prompt utilizado:
 
-Prompt 2 – Explicação de conceito
-
-"Explique o conceito de deepfake e como ele pode impactar processos judiciais."
-
-Resultado:
-
-A IA explicou que deepfakes são conteúdos sintéticos gerados por redes neurais que podem simular rostos, vozes e comportamentos, podendo comprometer a autenticidade de evidências digitais.
-
-Prompt 3 – Relação entre conceitos
-
-"Relacione a LGPD com os riscos da manipulação de dados por Inteligência Artificial."
+"Quais são os principais riscos jurídicos do uso de deepfakes como prova digital?"
 
 Resultado:
+- manipulação de evidências
+- dificuldade de verificação de autenticidade
+- risco de fraudes judiciais
 
-O modelo destacou princípios da LGPD como:
+---
 
-finalidade
+### Prompt 3 – Glossário
 
-transparência
+Prompt utilizado:
 
-segurança
+"Crie um glossário com os principais conceitos relacionados à LGPD e IA."
 
-responsabilização
+---
 
-E explicou como eles são afetados pelo uso indevido de IA.
+### Dificuldades Encontradas (Troubleshooting)
 
-⚠️ Dificuldades Encontradas (Troubleshooting)
+Durante os testes foi observado que:
 
-Durante os testes com o NotebookLM foram identificadas algumas limitações:
+- prompts genéricos geravam respostas superficiais
+- prompts específicos geravam respostas mais técnicas
+- solicitar **resumos estruturados** melhorou a qualidade das respostas
 
-Algumas respostas ficaram genéricas, exigindo prompts mais específicos.
+- ## 📘 Miniguia de Estudo
 
-Em determinados casos foi necessário pedir citações diretas das fontes.
+### LGPD e Inteligência Artificial
 
-A qualidade da resposta depende muito da clareza da pergunta.
+A Lei Geral de Proteção de Dados regula o tratamento de dados pessoais no Brasil e estabelece princípios fundamentais para garantir a privacidade e a proteção de informações dos cidadãos.
 
-Estratégia utilizada para melhorar os resultados:
+Com o avanço da Inteligência Artificial, surgem novos desafios, como:
 
-✔ prompts mais específicos
-✔ perguntas com contexto
-✔ solicitação de referências diretas dos documentos
+- uso massivo de dados para treinamento de modelos
+- riscos de discriminação algorítmica
+- falta de transparência em sistemas automatizados
 
-📘 Miniguia de Estudo
-📖 Resumo do Tema
+Além disso, a geração de **deepfakes e conteúdos sintéticos** levanta preocupações sobre a confiabilidade de **provas digitais em processos judiciais**.
 
-A Inteligência Artificial tem transformado diversas áreas da sociedade, incluindo o sistema jurídico. Tecnologias capazes de gerar imagens, vídeos e áudios sintéticos levantam preocupações sobre a autenticidade das provas digitais.
+---
 
-No Brasil, a Lei Geral de Proteção de Dados (LGPD) estabelece princípios e normas para o tratamento de dados pessoais, impondo responsabilidades para empresas e organizações que utilizam tecnologias de processamento de dados.
+### Principais Desafios
 
-A manipulação de conteúdos por IA, especialmente por meio de deepfakes, pode comprometer a confiabilidade de evidências digitais em processos judiciais, exigindo o desenvolvimento de mecanismos técnicos e jurídicos para identificação e validação dessas provas.
+- identificação de manipulações feitas por IA
+- verificação de autenticidade de arquivos digitais
+- responsabilidade jurídica de sistemas automatizados
+- conformidade com a LGPD
 
-📚 Glossário
+---
 
-LGPD
+### Glossário
+
+**LGPD**  
 Lei brasileira que regula o tratamento de dados pessoais.
 
-Deepfake
-Conteúdo sintético gerado por Inteligência Artificial capaz de simular pessoas reais.
+**Deepfake**  
+Conteúdo sintético gerado por IA que simula imagens, vídeos ou vozes reais.
 
-Provas Digitais
-Evidências eletrônicas utilizadas em investigações ou processos judiciais.
+**Prova Digital**  
+Qualquer evidência eletrônica utilizada em processos judiciais.
 
-Inteligência Artificial
-Tecnologias capazes de realizar tarefas que normalmente exigiriam inteligência humana.
+**IA Generativa**  
+Tipo de inteligência artificial capaz de gerar textos, imagens, vídeos ou áudio.
 
-Forense Digital
-Área responsável pela coleta e análise de evidências digitais.
+**Tratamento de Dados**  
+Qualquer operação realizada com dados pessoais.
 
-🔁 Prompts Reutilizáveis
+---
 
-Esses prompts podem ser usados em revisões futuras:
+### Prompts Reutilizáveis
 
-📌
+- "Explique os impactos da LGPD na Inteligência Artificial."
+- "Quais são os riscos jurídicos dos deepfakes?"
+- "Resuma os princípios da LGPD aplicáveis a sistemas de IA."
+- "Explique como validar provas digitais manipuladas por IA."
 
-"Explique os principais desafios jurídicos da Inteligência Artificial no Brasil."
+  ## 🚀 Conclusão
 
-📌
+O uso do NotebookLM demonstrou ser uma ferramenta poderosa para organizar conhecimento e facilitar o estudo de temas complexos.
 
-"Quais são os riscos dos deepfakes para a autenticidade das provas digitais?"
+A combinação de **curadoria de fontes, engenharia de prompts e síntese de conhecimento** permitiu construir um material estruturado sobre LGPD, Inteligência Artificial e provas digitais.
 
-📌
+Este projeto também evidencia o potencial da IA como ferramenta de **aprendizagem ativa e pesquisa acadêmica**.
 
-"Resuma os princípios da LGPD relacionados à segurança da informação."
+## 👩‍💻 Autora
 
-📌
-
-"Quais métodos podem ser usados para identificar manipulação em conteúdos digitais?"
-
-🚀 Conclusão
-
-A utilização do NotebookLM demonstrou ser uma ferramenta útil para organização de estudos, análise de documentos e geração de resumos estruturados.
-
-A integração entre Inteligência Artificial, Direito Digital e proteção de dados representa um campo de pesquisa cada vez mais relevante, exigindo abordagens multidisciplinares que combinem tecnologia, legislação e ética.
-
-🔗 Repositório
-
-Projeto desenvolvido como parte do desafio prático da plataforma DIO (Digital Innovation One) para exploração de Inteligência Artificial aplicada ao aprendizado.
+Thayna Bittencourt Baima  
+MBA em Cybersecurity  
+Graduada em Direito  
+Área de interesse: Direito Digital, LGPD e Inteligência Artificial
