@@ -19,6 +19,8 @@ Este projeto foi desenvolvido como um **caderno temático de estudo utilizando N
 ## 🧱 Arquitetura da Solução
 
 A arquitetura proposta utiliza pfSense como firewall central, com segmentação de rede e controle de acesso por vouchers.
+![Arquitetura Wi-Fi Segura](https://raw.githubusercontent.com/seuusuario/seurepositorio/main/arquitetura-wifi.png)
+
 
 ---
 
@@ -79,6 +81,14 @@ Resultado:
 Prompt utilizado:
 
 "Crie um glossário com os principais conceitos relacionados à LGPD e IA."
+
+| Conceito | Descrição |
+|--------|---------|
+| LGPD | Lei que regula o tratamento de dados pessoais no Brasil |
+| Privacy by Design | Proteção de dados desde o projeto do sistema |
+| pfSense | Firewall open source utilizado para segurança de redes |
+| VLAN | Segmentação lógica de rede |
+| Logs de auditoria | Registros para monitoramento e investigação |
 
 ---
 
